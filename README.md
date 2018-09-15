@@ -1,16 +1,14 @@
 # 100DaysOfCode
 
-<h4>
-Repo for all Actions, Project and activity of freeCodeCamp/ 100 Days of Code Challenge
-</h4>
+### Repo for all Actions, Project and activity of freeCodeCamp/ 100 Days of Code Challenge
 
-<h2> Purpose: </h2>
+## Purpose:
 
  - Code for an hour every day (making a habit of learning and coding independently, not just CTRL C+ CTRL+V)
  - Repeat Step 1 for 100 days consecutively (you can take a day break but not two break in a row)
  
- <br>
- <h2> About: </h2>
+
+ ## About:
  
  - Came across a post on Twitter, with a hashtag #freecodecamp #100DaysOfCode when i got into deep, realized there was much more bigger going on somewhere. (Just felt Awsome to know these upskilling and confident which are build by the devs)
  - Sitting on weekend it stuck into my mind that why not me.
@@ -21,21 +19,18 @@ Repo for all Actions, Project and activity of freeCodeCamp/ 100 Days of Code Cha
  
 <br>
 
-<h2> Specification: </h2>
+## Specification:
 
  - Completing all the course, projects and learning Angular, JS, HTML, CSS.
  - Everyday i will code i will write a post here as well as share it on Twitter.
  
 <br>
  
-<h2>Inspirations and Contributions: </h2>
+## Inspirations and Contributions:
 
- freeCodeCamp Community <a href="https://medium.freecodecamp.org/" target="_blank"> freeCodeCamp.org </a>
- <br>
- Alexander Kallaway Post on Medium <a href="https://medium.freecodecamp.org/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645" target="_blank"> How to get a Developer Job </a>
- <br>
- E Wilson post on Medium 
- <a href="https://medium.freecodecamp.org/i-took-on-the-100daysofcode-challenge-and-here-are-my-results-8e442f56d750" target="_blank"> What i learned from #100DaysOfCode </a>
+ - [freeCodeCamp Community: ](https://medium.freecodecamp.org/)
+ - [Alexander Kallaway Post on Medium: ](https://medium.freecodecamp.org/how-to-get-a-developer-job-in-less-than-a-year)
+ - [E Wilson post on Medium: ](https://medium.freecodecamp.org/i-took-on-the-100daysofcode-challenge-and-here-are-my-results-8e442f56d750)
  
  ## Progress
  
