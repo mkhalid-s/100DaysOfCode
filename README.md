@@ -37,3 +37,7 @@ Repo for all Actions, Project and activity of freeCodeCamp/ 100 Days of Code Cha
  E Wilson post on Medium 
  <a href="https://medium.freecodecamp.org/i-took-on-the-100daysofcode-challenge-and-here-are-my-results-8e442f56d750" target="_blank"> What i learned from #100DaysOfCode </a>
  
+ ## Progress
+ 
+ - Day 0
+ 
