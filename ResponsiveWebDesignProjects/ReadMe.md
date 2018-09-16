@@ -2,4 +2,4 @@
 
 ## 1. Tribute Page
 
-** Day1: ** Prototype prepared - basic layout
+** Day1: ** Prototype prepared - basic layout with a partial structure ready
