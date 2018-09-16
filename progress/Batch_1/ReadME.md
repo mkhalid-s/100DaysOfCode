@@ -15,6 +15,6 @@
   
   **Comment:** Started with Basic CSS.
   
-  **Work:** Written code only during the curriculum, Just tried to make a rough prototype for Tribute Page.
+  **Work:** Written code only during the curriculum, Just tried to make a rough prototype for [Tribute Page](https://github.com/mkhalid-s/100DaysOfCode/tree/master/ResponsiveWebDesignProjects/TributePage).
   
   
