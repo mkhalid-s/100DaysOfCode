@@ -25,4 +25,12 @@
   
   **Work:** Just tried to make a layout for [Tribute Page](https://codepen.io/mkhalid-s/full/GXYWpJ/).
   
+### Day 3: Tuesday, 18th September 2018
+
+  **Progress:** Working on CSS Part of tribute page.
+  
+  **Comment:** Completed with an Angular5 Course on Lynda, Started Visual Design Challenges on freeCodeCamp.
+  
+  **Work:** No Changes on [Tribute Page](https://codepen.io/mkhalid-s/full/GXYWpJ/).
+  
   
