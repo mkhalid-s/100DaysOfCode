@@ -33,4 +33,18 @@
   
   **Work:** No Changes on [Tribute Page](https://codepen.io/mkhalid-s/full/GXYWpJ/).
   
+### Day 4: Saturday, 22th September 2018
+
+  **Progress:** Did not work on Tribute page and have parked it for a while; setup npm, node, angular, angular cli, sublime 3 and created a demo project to get the implementation of few of the activity which i learned in Angular tutorial which i completed so that i am in touch. Proceeded with the curriculam 
   
+  **Comment:** Visual Design Challenges on freeCodeCamp in progress, learning using sublime git and angular coding with sublime text editor.
+  
+  **Work:** No Changes on [Tribute Page](https://codepen.io/mkhalid-s/full/GXYWpJ/).
+
+### Day 5: Sunday, 23th September 2018
+
+  **Progress:** Proceeded with the curriculam and side by side with all the topics covered in angular tutorial.
+  
+  **Comment:** Visual Design Challenges on freeCodeCamp in progress, Angular demo project created and changes in component and css done.
+  
+  **Work:** No Changes on [Tribute Page](https://codepen.io/mkhalid-s/full/GXYWpJ/).
