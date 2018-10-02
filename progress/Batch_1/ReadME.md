@@ -56,3 +56,11 @@
   **Comment:** Applied Accessibility on freeCodeCamp in progress.
   
   **Work:** No Changes on [Tribute Page](https://codepen.io/mkhalid-s/full/GXYWpJ/).
+  
+### Day 7: Monday, 29th September 2018
+
+  **Progress:** Proceeded with the curriculam.
+  
+  **Comment:** Applied Accessibility on freeCodeCamp in progress.
+  
+  **Work:** No Changes on [Tribute Page](https://codepen.io/mkhalid-s/full/GXYWpJ/).
